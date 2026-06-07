@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* This replaces fontFamily: { sans: ['Roboto', 'sans-serif'] } */
+  --font-sans: "Roboto", ui-sans-serif, system-ui, sans-serif;
+
+  /* This replaces gridTemplateColumns: { '70/30': '70% 28%' } */
+  --grid-cols-70-30: 70% 28%;
+}
