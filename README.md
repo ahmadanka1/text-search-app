@@ -5,7 +5,7 @@ A React application that allows users to search through articles in real time, w
 ## Features
 
 - Live search as you type
-- Keyword highlighting in titles and excerpts
+- Keyword highlighting in titles
 - Shows number of results found
 - Clear search button
 
