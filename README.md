@@ -13,7 +13,6 @@ A React application that allows users to search through articles in real time, w
 
 - React
 - Vite
-- Tailwind CSS
 
 ## How to Run
 
